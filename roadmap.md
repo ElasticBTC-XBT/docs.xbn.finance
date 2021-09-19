@@ -30,6 +30,7 @@
 ### Q4 - 2021
 
 * Launching CryptoWar Play to Earn: [https://cryptowar.network ](https://cryptowar.network%20)
+  * Goal: attract + 50000 XBN into xBlade-XBN liquidity pool
 * Launching Smart LaunchPad
 
 ## 2022
@@ -37,19 +38,23 @@
 ### Q1 - 2022
 
 * Bridge into AVAX and other chains
+  * Goal: attract + 50000 XBN into XBN liquidity pool
 * Research & Prepare to launching new Coins to increase Liquidity Pool 
 
 ### Q2 - 2022
 
 * Launching Magic Money
+  * Goal: attract + 50000 XBN into XBN liquidity pool
 
 ### Q3 - 2022
 
 * Launching Yield Optimization Platform
+  * Goal: attract + 50000 XBN into XBN liquidity pool
 
 ### Q4 - 2022
 
 * Listing on big exchanges 
+  * Goal: attract + 200000 XBN into XBN liquidity pool
 
 
 
