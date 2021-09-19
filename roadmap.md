@@ -2,7 +2,7 @@
 
 ## Alpha - 2020/11/11
 
-* XBT launched on Ethereum
+* XBT launched on Ethereum: https://elasticbitcoin.org
 
 ## 2021
 
