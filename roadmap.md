@@ -20,6 +20,7 @@
 
 ### Q3 - 2021
 
+* Launching auto burn and taxing system
 * XBN Auto staking is launched at: [https://xbn.finance/staking/](https://xbn.finance/staking/)
 * Partnering with PePe Community: [https://pepe.community](https://pepe.community), attract more than 90 000 XBN into [Pepe-XBN Liqudity Pool](https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac?a=0xa7b24a45e350ca7ade970cc0930b0e52ea5d16b4) 
 * Launching Baking Cake: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/) 
@@ -29,12 +30,14 @@
 ## Q4 - 2022
 
 * Launching CryptoWar Play to Earn: [https://cryptowar.network ](https://cryptowar.network%20)
+* Launching Smart LaunchPad
 
 ## 2022
 
 ### Q1 - 2022
 
 * Bridge into AVAX and other chains
+* Research & Prepare to launching new Coins to increase Liquidity Pool 
 
 ## Q2 - 2022
 
