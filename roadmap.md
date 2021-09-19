@@ -35,11 +35,14 @@
 ### Q1 - 2022
 
 * Bridge into AVAX and other chains
-* Launching Magic Money 
 
 ## Q2 - 2022
 
+* Launching Magic Money
+
 ## Q3 - 2022
+
+* Launching Yield Optimization Platform
 
 ## Q4 - 2022
 
