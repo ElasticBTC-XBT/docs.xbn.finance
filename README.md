@@ -1,6 +1,8 @@
 ---
-description: 'achieving BNB price target from 0.05$ for community, by community'
+description: 'achieving 1 XBN = 1 BNB price target from 0.05$'
 ---
+
+> https://docs.xbn.finance
 
 # XBN - Elastic BNB - Smart Liquidity Pools
 
