@@ -1,13 +1,12 @@
 # Table of contents
 
-* [XBN - Elastic BNB - Smart Liquidity Pools](README.md)
+* [XBN - Elastic BNB - Dapps & Smart Liquidity](README.md)
 * [How XBN can reach BNB Price?](how-xbn-can-increase-its-price.md)
+* [Migration to XBN](migration-to-xbn.md)
 * [Earn XBN Programs](earn-xbn-programs.md)
 * [Roadmap](roadmap.md)
 
 ## Links
-
----
 
 * [Homepage](https://xbn.finance)
 * [Airdrop](https://xbn.finance/airdrop)
@@ -15,8 +14,6 @@
 * [Twitter](https://twitter.com/elasticbitcoin)
 
 ## Ecosystem
-
----
 
 * [XBC](https://xbc.xbn.finance)
 * [Pepe Metaverse](https://pepe.community)

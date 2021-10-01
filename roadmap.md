@@ -2,7 +2,7 @@
 
 ## Alpha - 2020/11/11
 
-* XBT launched on Ethereum: https://elasticbitcoin.org
+* XBT launched on Ethereum: [https://elasticbitcoin.org](https://elasticbitcoin.org)
 
 ## 2021
 
@@ -25,7 +25,7 @@
 * Partnering with Pepe Community: [https://pepe.community](https://pepe.community), attract more than 90 000 XBN into [Pepe-XBN Liquidity Pool](https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac?a=0xa7b24a45e350ca7ade970cc0930b0e52ea5d16b4) 
 * Launching Baking Cake: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/) 
 * Improve Airdrop mechanism to increase XBN price to 0.68$ [https://xbn.finance/xbn/airdrop/](https://xbn.finance/xbn/airdrop/)
-* XBC Migration to XBN & Pepe: https://xbc.xbn.finance
+* XBC Migration to XBN & Pepe: [https://xbc.xbn.finance](https://xbc.xbn.finance)
 
 ### Q4 - 2021
 
@@ -55,6 +55,4 @@
 
 * Listing on big exchanges 
   * Goal: attract + 200000 XBN into XBN liquidity pool
-
-
 
