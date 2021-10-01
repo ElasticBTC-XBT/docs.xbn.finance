@@ -10,3 +10,5 @@ Your bonus will be kept in Reward Vault and you will need to claim it several ti
 - Reward < 10 XBN: full claim
 
 You need to wait for 24 hours until your next claim.
+
+This program is run until all rewards vault is distributed. 
