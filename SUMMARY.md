@@ -5,6 +5,7 @@
 * [Migration to XBN](migration-to-xbn.md)
 * [Earn XBN Programs](earn-xbn-programs.md)
 * [Roadmap](roadmap.md)
+* [TimeLock & Upgradable Proxy Contracts](timelock-and-upgradable-proxy-contracts.md)
 
 ## Links
 
@@ -18,4 +19,3 @@
 * [XBC](https://xbc.xbn.finance)
 * [Pepe Metaverse](https://pepe.community)
 * [CryptoWar](https://cryptowar.network)
-
