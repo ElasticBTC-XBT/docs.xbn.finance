@@ -14,9 +14,9 @@ Upgradable contract making it easy for contract authors to add features and fix 
 
 **What are the pros / cons for upgradable contracts?**
 
-**Pros**: It allows contracts to be changed if bugs or vulnerabilities are found so that the protocol can continue to function safely
+*Pros*: It allows contracts to be changed if bugs or vulnerabilities are found so that the protocol can continue to function safely
 
-**Cons**: Bad actor can maliciously switch contracts and implement new functions / behavior that users did not expect — e.g., steal users’ fund
+*Cons*: Bad actor can maliciously switch contracts and implement new functions / behavior that users did not expect — e.g., steal users’ fund
 
 **So why did XBN use upgradable contracts?**
 
