@@ -2,9 +2,9 @@
 
 > [https://docs.xbn.finance](https://docs.xbn.finance)
 
-## XBN - Powering the next Big Things
+## XBN - Powering the next Big Things on EVMs
 
-![1 XBN to be equal to 1 BNB](.gitbook/assets/eulqy59xcaa2ljr.jpg)
+![Follow the next big ideas, build the next big thing](.gitbook/assets/eulqy59xcaa2ljr.jpg)
 
 Hello, world!
 
