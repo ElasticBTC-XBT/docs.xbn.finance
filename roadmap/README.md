@@ -15,21 +15,21 @@
 
 * XBN also reached 4.5$
 * XBC - XBN Community Coin is launched
-* XBC reached a 30 million market cap after 1 day of listing 
-* Launching Smart Liquidity AI Bot 
+* XBC reached a 30 million market cap after 1 day of listing
+* Launching Smart Liquidity AI Bot
 
 ### Q3 - 2021
 
 * Launching auto burn and taxing system
 * XBN Auto staking is launched at: [https://xbn.finance/staking/](https://xbn.finance/staking/)
-* Partnering with Pepe Community: [https://pepe.community](https://pepe.community), attract more than 90 000 XBN into [Pepe-XBN Liquidity Pool](https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac?a=0xa7b24a45e350ca7ade970cc0930b0e52ea5d16b4) 
-* Launching Baking Cake: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/) 
+* Partnering with Pepe Community: [https://pepe.community](https://pepe.community), attract more than 90 000 XBN into [Pepe-XBN Liquidity Pool](https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac?a=0xa7b24a45e350ca7ade970cc0930b0e52ea5d16b4)
+* Launching Baking Cake: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/)
 * Improve Airdrop mechanism to increase XBN price to 0.68$ [https://xbn.finance/xbn/airdrop/](https://xbn.finance/xbn/airdrop/)
 * XBC Migration to XBN & Pepe: [https://xbc.xbn.finance](https://xbc.xbn.finance)
 
 ### Q4 - 2021
 
-* Launching CryptoWar Play to Earn: [https://cryptowar.network ](https://cryptowar.network%20)
+* Launching CryptoWar Play to Earn: [https://cryptowar.network](https://github.com/cryptowar.network)
   * Goal: attract + 50000 XBN into xBlade-XBN liquidity pool
 * Launching Smart LaunchPad
 
@@ -39,7 +39,7 @@
 
 * Bridge into AVAX and other chains
   * Goal: attract + 50000 XBN into XBN liquidity pool
-* Research & Prepare to launching new Coins to increase Liquidity Pool 
+* Research & Prepare to launching new Coins to increase Liquidity Pool
 
 ### Q2 - 2022
 
@@ -53,6 +53,5 @@
 
 ### Q4 - 2022
 
-* Listing on big exchanges 
+* Listing on big exchanges
   * Goal: attract + 200000 XBN into XBN liquidity pool
-
