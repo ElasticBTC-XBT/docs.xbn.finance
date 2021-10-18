@@ -4,8 +4,8 @@
 * [How XBN can reach BNB Price?](how-xbn-can-increase-its-price.md)
 * [Migration to XBN](migration-to-xbn.md)
 * [Earn XBN Programs](earn-xbn-programs.md)
-* [Roadmap](roadmap/README.md)
-  * [Tokenomics](roadmap/tokenomics.md)
+* [Roadmap](roadmap.md)
+* [Tokenomics](tokenomics.md)
 * [TimeLock & Upgradable Proxy Contracts](timelock-and-upgradable-proxy-contracts.md)
 
 ## Links
