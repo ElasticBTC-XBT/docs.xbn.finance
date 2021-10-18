@@ -19,3 +19,7 @@
 * [XBC](https://xbc.xbn.finance)
 * [Pepe Metaverse](https://pepe.community)
 * [CryptoWar](https://cryptowar.network)
+
+***
+
+* [Tokenomics](tokenomics.md)
