@@ -1,6 +1,8 @@
 # XBN - Building DeFi Ecosystem
 
-> [https://docs.xbn.finance](https://docs.xbn.finance)
+> URL: [https://docs.xbn.finance](https://docs.xbn.finance)
+>
+> Suggest Edit here: [https://github.com/ElasticBTC-XBT/docs.xbn.finance](https://github.com/ElasticBTC-XBT/docs.xbn.finance)
 
 ## XBN - Powering the next Big Things on EVMs
 
