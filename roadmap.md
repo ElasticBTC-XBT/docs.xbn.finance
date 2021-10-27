@@ -1,4 +1,4 @@
-# Achievements & Roadmap
+# Roadmap
 
 ## Alpha - 2020/11/11
 
@@ -6,46 +6,52 @@
 
 ## 2021
 
-### Q1
+### Q1 - 2021
 
-* XBN DeFi Protocol Token launched at an initial price of $0.05.
+* XBT reach 108 000$ by rebasing & buying force
+* XBN launching at an initial price of 0.05$
 
-### Q2&#x20;
+### Q2 - 2021
 
-* XBC - XBN Community Coin launched.
-* Smart Liquidity AI Bot launched.
+* XBN also reached 4.5$
+* XBC - XBN Community Coin is launched
+* XBC reached a 30 million market cap after 1 day of listing
+* Launching Smart Liquidity AI Bot
 
-### Q3
+### Q3 - 2021
 
-* Auto burn token and taxing system initiated for both XBN and XBC.
-* XBN Auto Staking launched at: [https://xbn.finance/staking/](https://xbn.finance/staking/)
-* Partnered with Pepe Community: [https://pepe.community](https://pepe.community)
-* Baking Cake launched: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/)
-* Upgraded XBN Airdrop mechanism: [https://xbn.finance/xbn/airdrop/](https://xbn.finance/xbn/airdrop/)
-* XBC migrated to XBN & Pepe: [https://xbc.xbn.finance](https://xbc.xbn.finance)
+* Launching auto burn and taxing system
+* XBN Auto staking is launched at: [https://xbn.finance/staking/](https://xbn.finance/staking/)
+* Partnering with Pepe Community: [https://pepe.community](https://pepe.community), attract more than 90 000 XBN into [Pepe-XBN Liquidity Pool](https://bscscan.com/token/0x547cbe0f0c25085e7015aa6939b28402eb0ccdac?a=0xa7b24a45e350ca7ade970cc0930b0e52ea5d16b4)
+* Launching Baking Cake: [https://xbn.finance/ai-staking/](https://xbn.finance/ai-staking/)
+* Improve Airdrop mechanism to increase XBN price to 0.68$ [https://xbn.finance/xbn/airdrop/](https://xbn.finance/xbn/airdrop/)
+* XBC Migration to XBN & Pepe: [https://xbc.xbn.finance](https://xbc.xbn.finance)
 
-### Q4
+### Q4 - 2021
 
-* Bridged XBN from BSC to AVAX.
-* CryptoWar xBlade launched: [https://cryptowar.network](https://github.com/cryptowar.network)
-* Launch Smart LaunchPad.
-* List XBN and xBlade to a centralized exchange.
+* Launching CryptoWar Play to Earn: [https://cryptowar.network](https://github.com/cryptowar.network)
+  * Goal: attract + 50000 XBN into xBlade-XBN liquidity pool
+* Launching Smart LaunchPad
 
 ## 2022
 
-### Q1
+### Q1 - 2022
 
-* Build Single-Asset Staking function for XBN in AVAX.
-* Upgrade CryptoWar to v2, introducing PvP features.
+* Bridge into AVAX and other chains
+  * Goal: attract + 50000 XBN into XBN liquidity pool
+* Research & Prepare to launching new Coins to increase Liquidity Pool
 
-### Q2
+### Q2 - 2022
 
-* Launch Magic Money for XBN.
+* Launching Magic Money
+  * Goal: attract + 50000 XBN into XBN liquidity pool
 
-### Q3
+### Q3 - 2022
 
-* Launch Yield Optimization Platform on XBN
+* Launching Yield Optimization Platform
+  * Goal: attract + 50000 XBN into XBN liquidity pool
 
-### Q4&#x20;
+### Q4 - 2022
 
-* List XBN and xBlade on a top tier centralized exchange
+* Listing on big exchanges
+  * Goal: attract + 200000 XBN into XBN liquidity pool
