@@ -1,6 +1,6 @@
 # Table of contents
 
-* [XBN - Building DeFi Ecosystem](README.md)
+* [What is XBN Finance](README.md)
 * [How XBN can reach BNB Price?](how-xbn-can-increase-its-price.md)
 * [Migration to XBN](migration-to-xbn.md)
 * [Earn XBN Programs](earn-xbn-programs.md)
