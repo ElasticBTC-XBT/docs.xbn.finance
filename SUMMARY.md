@@ -1,10 +1,9 @@
 # Table of contents
 
 * [What is XBN Finance](README.md)
-* [How XBN can reach BNB Price?](how-xbn-can-increase-its-price.md)
+* [Achievements & Roadmap](roadmap.md)
 * [Migration to XBN](migration-to-xbn.md)
 * [Earn XBN Programs](earn-xbn-programs.md)
-* [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [TimeLock & Upgradable Proxy Contracts](timelock-and-upgradable-proxy-contracts.md)
 
