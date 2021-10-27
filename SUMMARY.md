@@ -6,7 +6,7 @@
 * [Auto Staking](auto-staking.md)
 * [TimeLock & Upgradable Proxy Contracts](timelock-and-upgradable-proxy-contracts.md)
 * [Campaign: Migrate Meme Coins to XBN](migration-to-xbn.md)
-* [Earn XBN Programs](earn-xbn-programs.md)
+* [Campaign: Earn XBN](earn-xbn-programs.md)
 
 ## Links
 
