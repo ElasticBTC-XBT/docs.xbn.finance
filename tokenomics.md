@@ -19,7 +19,7 @@ Daily 0.1% of treasury coin will be automatically sent to following addresses:&#
 
 **Marketing & Devs **
 
-Wallets Marketing Wallet: 0x5c4248dffce11fb1df147a07555869613e2c1da8&#x20;
+Marketing Wallet: 0x5c4248dffce11fb1df147a07555869613e2c1da8&#x20;
 
 Dev Wallet: 0x106aFc0fCa1592F964a6e216d016b3dF45CDB4e6
 
