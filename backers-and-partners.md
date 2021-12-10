@@ -12,8 +12,10 @@
 
 [Cloudjet Solutions](https://www.cloudjetsolutions.com) (CJS) is a Cloud Computing & Software as a Service company based on Singapore and invested by [Expara Venture Fund](https://www.expara.com). After 10 years of development, CJS has wide-range clients from Big Corp to Small Enteprise around Vietnam.&#x20;
 
-## Partners <a href="backers" id="backers"></a>
+## Partners <a href="#backers" id="backers"></a>
 
 ![](.gitbook/assets/cclogopng.png)
 
 [ccFOUND](https://ccfound.com) is a project from Poland. It solves (uberizes) the problem of knowledge and wisdom search similarly to Google – by polling the network – however not of computers, but of other people’s minds. As the only one of aforementioned portals, it monetizes knowledge in a multi-faceted manner and helps people who specialize in a given subject to earn money on it. It allows asking paid questions; inserting paywalls in published responses, news, and analyzes; publishing paid e-books, online courses, webinars, and reports; organizing events, trainings, and conferences; collecting patrons and donors with access to closed groups and communities
+
+![Description for website Portal to cryptocurrency destination, Quarashi Network fosters adoption through it’s mobile application dedicated to crypto users, both beginner and advanced. Developing a cryptocurrency ecosystem for end-users as platform modules use leverage cutting edge technology, combined with synergy between multiple strategies. The platform consists out of 6 modules: Multi Chain Non Custodial Wallet supporting +9000 cryptocurrencies, Decentralized Exchange, 100% Private Messaging Module, VPN and Incognito Browser, IDO Launchpad, Airdrops & News & Top ICO module.](<.gitbook/assets/Quarashi\_logo\_black1 (1).png>)

@@ -17,13 +17,13 @@ Daily 0.1% of treasury coin will be automatically sent to following addresses:&#
 * Auto Staking: 0x8ab58dd7ac92ee5088a34556bed11be7b74b2ab0&#x20;
 * Migration Incentive: 0x77c6bb15eac53c710964b19911a59da473412847
 
-**Marketing & Devs **
+**Marketing & Devs**&#x20;
 
 Marketing Wallet: 0x5c4248dffce11fb1df147a07555869613e2c1da8&#x20;
 
 Dev Wallet: 0x106aFc0fCa1592F964a6e216d016b3dF45CDB4e6
 
-**Taxes & Earnings **
+**Taxes & Earnings**&#x20;
 
 * 10% selling tax, setting at slippage, when investors sell XBN on Pancake will be sent to Auto Staking Address, this Auto Staking wallet is engineered to finance holders who claim weekly reward from holding XBN.&#x20;
 * 1% of Auto Staking Wallet will be transferred to Earnings Wallet everyday: 0xf36bd2cb1bc46bb0265617ad311071f820490b6d Earnings Wallet will automatically do the following tasks:&#x20;
