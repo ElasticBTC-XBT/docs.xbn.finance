@@ -49,4 +49,4 @@
 
 ### Q4&#x20;
 
-* List XBN and xBlade on a top tier centralized exchange
+* Updating

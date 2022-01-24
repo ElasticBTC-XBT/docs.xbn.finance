@@ -19,5 +19,4 @@
 
 ## Ecosystem
 
-* [Pepe Metaverse](https://pepe.community)
 * [CryptoWar](https://cryptowar.network)
