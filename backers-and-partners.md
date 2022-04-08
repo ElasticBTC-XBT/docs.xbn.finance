@@ -38,6 +38,6 @@ Owl.Games : Best Crypto Casino for Web 3.0
 
 [HyperJump](https://hyperjump.app) is a multi-chain Defi platform focused on optimizing and grouping the main DApps most used by users in a single interface
 
-![](<.gitbook/assets/tribeone updated logo -04.png>)
+![](.gitbook/assets/tribeo.png)
 
 [TribeOne ](https://www.tribeone.io)is the world’s first-ever NFT lending platform that offers a seamless experience; to the users through its innovative consumer-centric products. The platform will break barriers in the traditional financial ecosystem and revolutionize the DeFi sphere as a whole. Providing the community with a platform to lend, borrow and invest in NFTs. Therefore, offering an unconventional experience for all.
